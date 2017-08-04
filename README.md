@@ -30,7 +30,7 @@ Note: You need to install all MinGW features while installing MinGW in your syst
 --> Compilation script is already given!<br />
 --> Just extract downloaded repository to "C:\MinGW\msys\1.0\home\".<br />
 --> Next run "MSYS Shell", go to "C:\MinGW\msys\1.0\" and double click on msys.bat<br />
---> Then go to the repository folder and you find a file named: "build.sh".<br />
+--> Then go to the repository folder and you will find a file named: "build.sh".<br />
 --> Run "build.sh" by hitting ./build.sh or build.sh on the MSYS Shell.<br />
 
 Note: This software is compiled using MinGW cross compiler toolsets for windows and some extra libraries like "perl", extra
