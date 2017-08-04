@@ -1,4 +1,4 @@
-# Custom Nginx for Windows
+# Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/nginx.png" alt="Nginx Logo" title="Nginx">
 This is a custom Nginx version 1.12.1 for Windows NT platform.
 
 # Features:
