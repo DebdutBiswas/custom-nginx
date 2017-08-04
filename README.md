@@ -8,7 +8,7 @@ This is a custom nginx distro for Windows NT platform.
 4) Added Cloudflare OpenSSL patch for "CHACHA20-POLY1305" support.
 5) Added Cloudflare SPDY patch for simultaneous support of HTTP2 & SPDY.
 6) All libraries and modules are embeded into the main binary.
-7) UPX Ultra LZMA Compression is used to compress the binary to approx 30% of it's original size.
+7) UPX Ultra LZMA Compression is used to compress the binary to approx 22.79% of it's original size.
 
 # Compilation Tools Required:
 1) <a href="https://sourceforge.net/projects/mingw/files/latest/download?source=files" target="_blank">MinGW</a>
