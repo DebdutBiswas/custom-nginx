@@ -1,5 +1,5 @@
 # Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/nginx.png" alt="Nginx Logo" title="Nginx">
-This is a custom Nginx version 1.12.1 for Windows NT platform.
+This is a custom nginx distro for Windows NT platform.
 
 # Features:
 1) Added "http_headers-more" module for better http headers support.
@@ -35,3 +35,12 @@ Note: You need to install all MinGW features while installing MinGW in your syst
 
 Note: This software is compiled using MinGW cross compiler toolsets for windows and some extra libraries like "perl", extra
 build tools like "UPX Compressor" are used! Also some necessery libraries are included: PCRE, OpenSSL, Zlib.
+
+# Version Build Info:
+RAW Output:
+<br />
+nginx version: nginx/1.12.1<br />
+built by gcc 6.3.0 (MinGW.org GCC-6.3.0-1)<br />
+built with OpenSSL 1.0.2l  25 May 2017<br />
+TLS SNI support enabled<br />
+configure arguments: --with-cc=gcc --builddir=objs --with-debug --prefix= --conf-path=conf/nginx.conf --pid-path=logs/nginx.pid --http-log-path=logs/access.log --error-log-path=logs/error.log --sbin-path=nginx.exe --http-client-body-temp-path=temp/client_body_temp --http-proxy-temp-path=temp/proxy_temp --http-fastcgi-temp-path=temp/fastcgi_temp --http-scgi-temp-path=temp/scgi_temp --http-uwsgi-temp-path=temp/uwsgi_temp --with-cc-opt=-DFD_SETSIZE=1024 --with-pcre=objs/lib/pcre-8.40 --with-zlib=objs/lib/zlib-1.2.11 --with-openssl=objs/lib/openssl-1.0.2l --with-select_module --with-http_v2_module --with-http_realip_module --with-http_addition_module --with-http_sub_module --with-http_dav_module --with-http_stub_status_module --with-http_flv_module --with-http_mp4_module --with-http_gunzip_module --with-http_gzip_static_module --with-http_auth_request_module --with-http_random_index_module --with-http_secure_link_module --with-http_slice_module --with-mail --with-stream --with-openssl-opt=no-asm --with-http_ssl_module --with-mail_ssl_module --with-stream_ssl_module --with-http_spdy_module --add-module=objs/mods/headers-more-nginx-module-0.32
