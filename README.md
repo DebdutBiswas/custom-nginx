@@ -1,4 +1,4 @@
-# Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/nginx.png" alt="Nginx Logo" title="Nginx">
+# Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/love.png" alt="Love Logo" title="Love"><img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/nginx.png" alt="Nginx Logo" title="Nginx">
 This is a custom nginx distro for Windows NT platform.
 
 # Features:
