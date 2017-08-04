@@ -11,9 +11,9 @@ This is a custom Nginx version 1.12.1 for Windows NT platform.
 7) UPX Ultra LZMA Compression is used to compress the binary to approx 30% of it's original size.
 
 # Compilation Tools Required:
-1) <a href="https://sourceforge.net/projects/mingw/files/latest/download?source=files">MinGW</a>
-2) <a href="https://sourceforge.net/projects/mingw/files/MSYS/Base/msys-core/msys-1.0.11/MSYS-1.0.11.exe/download?use_mirror=excellmedia">MSYS</a>
-3) <a href="https://upx.github.io/">Ultimate Packer for eXecutables</a>
+1) <a href="https://sourceforge.net/projects/mingw/files/latest/download?source=files" target="_blank">MinGW</a>
+2) <a href="https://sourceforge.net/projects/mingw/files/MSYS/Base/msys-core/msys-1.0.11/MSYS-1.0.11.exe/download?use_mirror=excellmedia" target="_blank">MSYS</a>
+3) <a href="https://upx.github.io/" target="_blank">Ultimate Packer for eXecutables</a>
 
 --> Some Resources:
 <br />
