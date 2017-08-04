@@ -17,18 +17,20 @@ This is a custom Nginx version 1.12.1 for Windows NT platform.
 
 --> Some Resources:
 http://www.mingw.org/wiki/mingw
+<br />
 http://www.mingw.org/wiki/MSYS
-http://nginx.org/
+<br />
 http://nginx.org/en/docs/howto_build_on_win32.html
+<br />
 
 Note: You need to install all MinGW features while installing MinGW in your system!
 
 # Compilation:
---> Compilation script is already given!
---> Just extract downloaded repository to "C:\MinGW\msys\1.0\home\".
---> Next run "MSYS Shell", go to "C:\MinGW\msys\1.0\" and double click on msys.bat
---> Then go to the repository folder and you find a file named: "build.sh".
---> Run "build.sh" by hitting ./build.sh or build.sh on the MSYS Shell.
+--> Compilation script is already given!<br />
+--> Just extract downloaded repository to "C:\MinGW\msys\1.0\home\".<br />
+--> Next run "MSYS Shell", go to "C:\MinGW\msys\1.0\" and double click on msys.bat<br />
+--> Then go to the repository folder and you find a file named: "build.sh".<br />
+--> Run "build.sh" by hitting ./build.sh or build.sh on the MSYS Shell.<br />
 
 Note: This software is compiled using MinGW cross compiler toolsets for windows and some extra libraries like "perl", extra
 build tools like "UPX Compressor" are used! Also some necessery libraries are included: PCRE, OpenSSL, Zlib.
