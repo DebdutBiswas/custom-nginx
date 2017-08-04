@@ -58,7 +58,25 @@ auto/configure --with-cc=gcc --builddir=objs --with-debug --prefix= \
 --add-module=objs/mods/headers-more-nginx-module-0.32
 sed -i '/\tobjs\/src\/os\/win32\/ngx_process_cycle.o \\/s/$/\n\tobjs\/src\/os\/win32\/ngx_rc.o \\/' objs/Makefile
 make -f objs/Makefile
+echo
+echo 'Build Complete!'
 cd objs
-upx nginx.exe --ultra-brute
-echo 'Build Done!'
+cp nginx.exe nginx_uncompressed.exe
+echo
+echo 'Print version info from compiled binary:'
 nginx -V
+echo 'Done!'
+echo
+echo 'Compressing compiled binary:'
+upx nginx.exe --ultra-brute
+echo 'Done!'
+cd ..
+echo
+echo 'Exporting final package:'
+mkdir compiled
+cp objs/nginx.exe compiled/nginx.exe
+cp objs/nginx_uncompressed.exe compiled/nginx_uncompressed.exe
+tar -cvzf compiled.tar.gz compiled
+rm compiled/*
+rmdir compiled
+echo 'Done!'
