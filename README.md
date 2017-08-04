@@ -16,6 +16,7 @@ This is a custom Nginx version 1.12.1 for Windows NT platform.
 3) <a href="https://upx.github.io/">Ultimate Packer for eXecutables</a>
 
 --> Some Resources:
+<br />
 http://www.mingw.org/wiki/mingw
 <br />
 http://www.mingw.org/wiki/MSYS
