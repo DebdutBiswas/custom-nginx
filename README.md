@@ -1,4 +1,6 @@
-# Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/nginx.png" alt="Nginx Logo" title="Nginx"><img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/love.png" alt="Love Logo" title="Loves"><img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/windows.png" alt="Windows Logo" title="Windows">
+# Custom Nginx for Windows
+<img align="left" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/nginx.png" alt="Nginx Logo" title="Nginx"><img align="left" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/love.png" alt="Love Logo" title="Loves"><img align="left" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/windows.png" alt="Windows Logo" title="Windows">
+<br />
 This is a custom nginx distro for Windows NT platform.
 
 [![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/DebdutBiswas/custom-nginx/tree/master)
