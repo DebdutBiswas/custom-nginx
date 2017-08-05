@@ -2,7 +2,7 @@
 This is a custom nginx distro for Windows NT platform.
 
 [![GitHub issues](https://img.shields.io/github/issues/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/issues)
-[![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/forks)
+[![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/network)
 [![GitHub stars](https://img.shields.io/github/stars/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/LICENSE)
 [![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/DebdutBiswas/custom-nginx/tree/master)
