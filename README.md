@@ -2,9 +2,10 @@
 This is a custom nginx distro for Windows NT platform.
 
 [![GitHub issues](https://img.shields.io/github/issues/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/issues)
-[![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/network)
+[![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/forks)
 [![GitHub stars](https://img.shields.io/github/stars/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/LICENSE)
+[![Build status](https://https://img.shields.io/badge/build-passing-brightgreen.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/BUILD_STAT)
 
 # Features:
 1) Added "http_headers-more" module for better http headers support.
