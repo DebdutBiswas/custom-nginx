@@ -5,7 +5,7 @@ This is a custom nginx distro for Windows NT platform.
 [![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/forks)
 [![GitHub stars](https://img.shields.io/github/stars/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/LICENSE)
-[![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/BUILD_STAT)
+[![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/DebdutBiswas/custom-nginx/tree/master)
 
 # Features:
 1) Added "http_headers-more" module for better http headers support.
