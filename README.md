@@ -1,6 +1,11 @@
 # Custom Nginx for Windows<img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/nginx.png" alt="Nginx Logo" title="Nginx"><img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/love.png" alt="Love Logo" title="Loves"><img align="right" src="https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/docs/images/windows.png" alt="Windows Logo" title="Windows">
 This is a custom nginx distro for Windows NT platform.
 
+[![GitHub issues](https://img.shields.io/github/issues/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/issues)
+[![GitHub forks](https://img.shields.io/github/forks/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/network)
+[![GitHub stars](https://img.shields.io/github/stars/DebdutBiswas/custom-nginx.svg)](https://github.com/DebdutBiswas/custom-nginx/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/DebdutBiswas/custom-nginx/master/LICENSE)
+
 # Features:
 1) Added "http_headers-more" module for better http headers support.
 2) Added "http_spdy" module for spdy support.
